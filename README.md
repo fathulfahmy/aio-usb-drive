@@ -72,15 +72,16 @@ All In One USB Drive is a curated collection of diagnostic and rescue tools, ope
 
 ### Open-source
 
-| Name         | Description                                               | Download                               |
-| ------------ | --------------------------------------------------------- | -------------------------------------- |
-| SystemRescue | Linux-based rescue toolkit                                | [Download SystemRescue][system-rescue] |
-| Rescuezilla  | Disk imaging/cloning                                      | [Download Rescuezilla][rescuezilla]    |
-| Netboot.xyz  | Network required rescue toolkit and OS installer          | [Download Netboot.xyz][netbootxyz]     |
-| Debian       | LTS Linux distro live environment and installer           | [Download Debian][debian]              |
-| Ubuntu       | LTS Linux distro live environment and installer           | [Download Ubuntu][ubuntu]              |
-| Fedora Linux | Bleeding-edge Linux distro live environment and installer | [Download Fedora Linux][fedora-linux]  |
-| Arch Linux   | Bleeding-edge Linux distro installer                      | [Download Arch Linux][arch-linux]      |
+| Name         | Description                                                | Download                               |
+| ------------ | ---------------------------------------------------------- | -------------------------------------- |
+| SystemRescue | Linux-based rescue toolkit                                 | [Download SystemRescue][system-rescue] |
+| Rescuezilla  | Disk imaging/cloning                                       | [Download Rescuezilla][rescuezilla]    |
+| Netboot.xyz  | Network required rescue toolkit and OS installer           | [Download Netboot.xyz][netbootxyz]     |
+| Debian       | LTS Linux distro live environment and installer            | [Download Debian][debian]              |
+| Ubuntu       | LTS Linux distro live environment and installer            | [Download Ubuntu][ubuntu]              |
+| Fedora Linux | Bleeding-edge Linux distro live environment and installer  | [Download Fedora Linux][fedora-linux]  |
+| Arch Linux   | Bleeding-edge Linux distro installer                       | [Download Arch Linux][arch-linux]      |
+| Tails OS     | Portable Os protecting against surveillance and censorship | [Download Tails OS][tails-os]
 
 ### Closed-source
 
@@ -256,6 +257,7 @@ Project Link: https://github.com/fathulfahmy/aio-usb-drive
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/fathulfahmy
 [product-screenshot]: image.png
+[tails-os]: https://tails.net/install/index.en.html
 [ventoy]: https://www.ventoy.net/en/download.html
 [system-rescue]: https://www.system-rescue.org/Download/
 [rescuezilla]: https://rescuezilla.com/download
