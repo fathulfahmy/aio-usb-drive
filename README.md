@@ -235,6 +235,7 @@ Project Link: https://github.com/fathulfahmy/aio-usb-drive
 - [Ubuntu Project](http://ubuntu.com/)
 - [Fedora Project](https://fedoraproject.org/)
 - [Arch Linux Project](https://archlinux.org/)
+- [Tails Linux Project](https://tails.net/index.en.html)
 - [Hiren's BootCD PE](https://www.hirensbootcd.org/)
 - [MASSGRAVE](https://massgrave.dev/)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
