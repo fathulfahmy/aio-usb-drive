@@ -60,6 +60,8 @@
 
 ## About
 
+![All In One USB Drive Screen Shot][product-screenshot]
+
 All In One USB Drive is a curated collection of diagnostic and rescue tools, operating system, and application installers, along with a step‑by‑step guide for preparing and using the USB drive. The repository serves as a reference for building a "Swiss‑army knife" USB drive that bundles essential utilities into a single, updatable, portable toolkit.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -73,7 +75,7 @@ All In One USB Drive is a curated collection of diagnostic and rescue tools, ope
 | Name         | Description                                               | Download                               |
 | ------------ | --------------------------------------------------------- | -------------------------------------- |
 | SystemRescue | Linux-based rescue toolkit                                | [Download SystemRescue][system-rescue] |
-| Clonezilla   | Disk imaging/cloning                                      | [Download Clonezilla][clonezilla]      |
+| Rescuezilla  | Disk imaging/cloning                                      | [Download Rescuezilla][rescuezilla]    |
 | Netboot.xyz  | Network required rescue toolkit and OS installer          | [Download Netboot.xyz][netbootxyz]     |
 | Debian       | LTS Linux distro live environment and installer           | [Download Debian][debian]              |
 | Ubuntu       | LTS Linux distro live environment and installer           | [Download Ubuntu][ubuntu]              |
@@ -226,7 +228,7 @@ Project Link: https://github.com/fathulfahmy/aio-usb-drive
 ## Acknowledgments
 
 - [SystemRescue](https://www.system-rescue.org/)
-- [Clonezilla](https://clonezilla.org/)
+- [Rescuezilla](https://rescuezilla.com/)
 - [Netboot.xyz](http://netboot.xyz/)
 - [Debian Project](https://www.debian.org/)
 - [Ubuntu Project](http://ubuntu.com/)
@@ -253,10 +255,10 @@ Project Link: https://github.com/fathulfahmy/aio-usb-drive
 [license-url]: https://github.com/fathulfahmy/aio-usb-drive/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/fathulfahmy
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: image.png
 [ventoy]: https://www.ventoy.net/en/download.html
 [system-rescue]: https://www.system-rescue.org/Download/
-[clonezilla]: https://clonezilla.org/downloads/download.php?branch=stable
+[rescuezilla]: https://rescuezilla.com/download
 [netbootxyz]: https://netboot.xyz/downloads/
 [debian]: https://cdimage.debian.org/debian-cd/
 [ubuntu]: https://ubuntu.com/download/desktop
