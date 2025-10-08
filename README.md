@@ -79,6 +79,7 @@ All In One USB Drive is a curated collection of diagnostic and rescue tools, ope
 | Name         | Description                                               | Download                               |
 | ------------ | --------------------------------------------------------- | -------------------------------------- |
 | SystemRescue | Linux-based rescue toolkit                                | [Download SystemRescue][system-rescue] |
+| Grml         | Linux live-system for rescue and generic purposes         | [Download Grml][grml]                  |
 | Rescuezilla  | Disk imaging/cloning                                      | [Download Rescuezilla][rescuezilla]    |
 | Netboot.xyz  | Network required rescue toolkit and OS installer          | [Download Netboot.xyz][netbootxyz]     |
 | Debian       | LTS Linux distro live environment and installer           | [Download Debian][debian]              |
@@ -232,6 +233,7 @@ Project Link: https://github.com/fathulfahmy/aio-usb-drive
 ## Acknowledgments
 
 - [SystemRescue](https://www.system-rescue.org/)
+- [Grml](https://grml.org/)
 - [Rescuezilla](https://rescuezilla.com/)
 - [Netboot.xyz](http://netboot.xyz/)
 - [Debian Project](https://www.debian.org/)
@@ -262,6 +264,7 @@ Project Link: https://github.com/fathulfahmy/aio-usb-drive
 [product-screenshot]: image.png
 [ventoy]: https://www.ventoy.net/en/download.html
 [system-rescue]: https://www.system-rescue.org/Download/
+[grml]: https://grml.org/download/
 [rescuezilla]: https://rescuezilla.com/download
 [netbootxyz]: https://netboot.xyz/downloads/
 [debian]: https://cdimage.debian.org/debian-cd/
