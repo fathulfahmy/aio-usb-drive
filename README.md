@@ -178,16 +178,17 @@ irm https://get.activated.win | iex
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- COMMUNITY PICK -->
+<!-- COMMUNITY PICKS -->
 
-## Community Pick
+## Community Picks
 
 <!-- | Tool Name | Descriptive noun | [Download Tool Name][tool-name] | -->
 
-| Name | Description | Download |
-| ---- | ----------- | -------- |
-| Grml | Linux live-system for rescue and generic purposes | [Download Grml][grml] |
-|      |             |          |
+| Name     | Description                                       | Download                      |
+| -------- | ------------------------------------------------- | ----------------------------- |
+| Grml     | Linux live-system for rescue and generic purposes | [Download Grml][grml]         |
+| urBackup | Open-source backup system                         | [Download urBackup][urbackup] |
+|          |                                                   |                               |
 
 <!-- ROADMAP -->
 
@@ -285,8 +286,8 @@ Project Link: https://github.com/fathulfahmy/aio-usb-drive
 [windows11]: https://www.microsoft.com/en-us/software-download/windows11
 [office365]: https://gravesoft.dev/office_c2r_links
 [massgrave]: https://massgrave.dev/
+
+<!-- COMMUNITY PICKS -->
+
 [grml]: https://grml.org/download/
-
-<!-- COMMUNITY PICK DOWNLOAD URL -->
-
-<!-- [tool-name]: https://website.com/download -->
+[urbackup]: https://www.urbackup.org/download.html
