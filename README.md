@@ -178,16 +178,19 @@ irm https://get.activated.win | iex
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- COMMUNITY PICK -->
+<!-- COMMUNITY PICKS -->
 
-## Community Pick
+## Community Picks
 
 <!-- | Tool Name | Descriptive noun | [Download Tool Name][tool-name] | -->
 
-| Name | Description | Download |
-| ---- | ----------- | -------- |
-| Grml | Linux live-system for rescue and generic purposes | [Download Grml][grml] |
-|      |             |          |
+| Name     | Description                                                                            | Download                      |
+| -------- | -------------------------------------------------------------------------------------- | ----------------------------- |
+| Grml     | Bootable OS with collection of software for installation, deployment and system rescue | [Download Grml][grml]         |
+| urBackup | Open-source backup system                                                              | [Download urBackup][urbackup] |
+| Rescatux | Bootable OS for Linux and Windows installations and boot loaders rescue                | [Download Rescatux][rescatux] |
+| ShredOS  | Bootable OS for erasing disks with nwipe on x86 PCs and Intel-based Macs               | [Download ShredOS][shredos]   |
+|          |                                                                                        |                               |
 
 <!-- ROADMAP -->
 
@@ -253,7 +256,6 @@ Project Link: https://github.com/fathulfahmy/aio-usb-drive
 - [Hiren's BootCD PE](https://www.hirensbootcd.org/)
 - [MASSGRAVE](https://massgrave.dev/)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
-- [Grml](https://grml.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -285,8 +287,10 @@ Project Link: https://github.com/fathulfahmy/aio-usb-drive
 [windows11]: https://www.microsoft.com/en-us/software-download/windows11
 [office365]: https://gravesoft.dev/office_c2r_links
 [massgrave]: https://massgrave.dev/
+
+<!-- COMMUNITY PICKS -->
+
 [grml]: https://grml.org/download/
-
-<!-- COMMUNITY PICK DOWNLOAD URL -->
-
-<!-- [tool-name]: https://website.com/download -->
+[urbackup]: https://www.urbackup.org/download.html
+[rescatux]: https://www.supergrubdisk.org/category/download/rescatuxdownloads/rescatux-stable/
+[shredos]: https://github.com/PartialVolume/shredos.x86_64/releases
