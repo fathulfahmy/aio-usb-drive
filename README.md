@@ -184,11 +184,11 @@ irm https://get.activated.win | iex
 
 <!-- | Tool Name | Descriptive noun | [Download Tool Name][tool-name] | -->
 
-| Name     | Description                                       | Download                      |
-| -------- | ------------------------------------------------- | ----------------------------- |
-| Grml     | Linux live-system for rescue and generic purposes | [Download Grml][grml]         |
-| urBackup | Open-source backup system                         | [Download urBackup][urbackup] |
-|          |                                                   |                               |
+| Name     | Description                                                                            | Download                      |
+| -------- | -------------------------------------------------------------------------------------- | ----------------------------- |
+| Grml     | Bootable OS with collection of software for installation, deployment and system rescue | [Download Grml][grml]         |
+| urBackup | Open-source backup system                                                              | [Download urBackup][urbackup] |
+| Rescatux | Bootable OS for Linux and Windows installations and boot loaders rescue                | [Download Rescatux][rescatux] |
 
 <!-- ROADMAP -->
 
@@ -254,7 +254,6 @@ Project Link: https://github.com/fathulfahmy/aio-usb-drive
 - [Hiren's BootCD PE](https://www.hirensbootcd.org/)
 - [MASSGRAVE](https://massgrave.dev/)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
-- [Grml](https://grml.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -291,3 +290,4 @@ Project Link: https://github.com/fathulfahmy/aio-usb-drive
 
 [grml]: https://grml.org/download/
 [urbackup]: https://www.urbackup.org/download.html
+[rescatux]: https://www.supergrubdisk.org/category/download/rescatuxdownloads/rescatux-stable/
