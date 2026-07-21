@@ -189,6 +189,8 @@ irm https://get.activated.win | iex
 | Grml     | Bootable OS with collection of software for installation, deployment and system rescue | [Download Grml][grml]         |
 | urBackup | Open-source backup system                                                              | [Download urBackup][urbackup] |
 | Rescatux | Bootable OS for Linux and Windows installations and boot loaders rescue                | [Download Rescatux][rescatux] |
+| ShredOS  | Bootable OS for erasing disks with nwipe on x86 PCs and Intel-based Macs               | [Download ShredOS][shredos]   |
+|          |                                                                                        |                               |
 
 <!-- ROADMAP -->
 
@@ -291,3 +293,4 @@ Project Link: https://github.com/fathulfahmy/aio-usb-drive
 [grml]: https://grml.org/download/
 [urbackup]: https://www.urbackup.org/download.html
 [rescatux]: https://www.supergrubdisk.org/category/download/rescatuxdownloads/rescatux-stable/
+[shredos]: https://github.com/PartialVolume/shredos.x86_64/releases
